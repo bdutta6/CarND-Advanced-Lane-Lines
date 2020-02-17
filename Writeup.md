@@ -42,7 +42,7 @@ Firstly, I divide my code into two sections. The first section defines all the f
 
 My readme file and my IPython notebook code is contained in the following location respectively:
  * "./AdvancedLaneFinding.ipynb"
- * "./Readme.md"
+ * "./Writeup.md"
 
 ### Camera Calibration
 
