@@ -18,9 +18,9 @@ The goals / steps of this project are the following:
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
 [//]: # (Image References)
-[image00]: ./camera_cal/calibration1.jpg "Corners marked calibration image"
-[image01]: ./corners_marked_images/calibration1.jpg "Corners marked calibration image"
-[image10]: ./undistorted_calibration_images/calibration1.jpg "Undistorted calibration image"
+[image00]: ./camera_cal/calibration2.jpg "Corners marked calibration image"
+[image01]: ./corners_marked_images/calibration2.jpg "Corners marked calibration image"
+[image10]: ./undistorted_calibration_images/calibration2.jpg "Undistorted calibration image"
 [image1]: ./test_images/straight_lines2.jpg "Raw"
 [image2]: ./calibrated_images/straight_lines2.jpg "Undistorted"
 [image3]: ./binary_images/straight_lines2.jpg "Binary Example"
